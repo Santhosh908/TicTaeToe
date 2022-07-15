@@ -1,6 +1,7 @@
 import React from 'react';
 import Square from './Square'
 
+
 const Board = ({board,hsc}) => {
  
 const rs= pos =>{
